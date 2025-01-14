@@ -1,4 +1,4 @@
-## Hi there 👋
+![img](https://github.com/jerry-yyy/jerry-yyy/blob/main/IMG_2527.GIF)
 
 <!--
 **jerry-yyy/jerry-yyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
