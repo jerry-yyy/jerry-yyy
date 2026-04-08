@@ -1,4 +1,4 @@
-![img](https://github.com/jerry-yyy/jerry-yyy/blob/main/20260408_062340814_iOS.GIF)
+![img](https://github.com/jerry-yyy/jerry-yyy/blob/main/20260408_062340814_iOS.gif)
 
 ![snake](https://raw.githubusercontent.com/jerry-yyy/jerry-yyy/output/github-contribution-grid-snake.svg)
 
